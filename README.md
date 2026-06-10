@@ -35,7 +35,7 @@ domains **3.0 Collaborate using GitHub** and **7.0 Explore the GitHub community*
 
 ## Links
 
-- Free GH-900 course and mock exam: https://certy.codedvisiondesign.co.uk
+- Free GH-900 course and mock exam: https://certy.pro
 - Student lab template: https://github.com/CertyPro/certy-gh900-student-lab-template
 - Course content and cheat sheets: https://github.com/CertyPro/certy-gh900-course-content
 
